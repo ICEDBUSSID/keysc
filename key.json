@@ -1,4 +1,12 @@
 {
-    "iced2025": {"status": "admin"},
-    "key67890": {"status": "seller", "expire": "2025-04-01"}
+    "keys": {
+        "iced2025": {
+            "status": "admin",
+            "expire": null
+        },
+        "user_key_2": {
+            "status": "seller",
+            "expire": "2025-12-31"
+        }
+    }
 }
